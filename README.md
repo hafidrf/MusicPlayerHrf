@@ -6,6 +6,20 @@ This App Using API https://affiliate.itunes.apple.com/resources/documentation/it
 - Showing List song after search
 - Displays and playing music with music player
 
+## Supported devices
+- Android Smartphone
+
+## Requirements to build the app
+- Android Studio
+- minSdkVersion 21
+- targetSdkVersion 29
+- distributionUrl=https\://services.gradle.org/distributions/gradle-6.7.1-all.zip
+
+## Instructions to build and deploy the app
+- Clone Project from Github project https://github.com/hafidrf/MusicPlayerHrf
+- Sync project with Gradle filer
+- Run project to emulator
+
 ## Tech Stack
 - Kotlin Programming language
 - Clean Architecture with MVVM pattern.
