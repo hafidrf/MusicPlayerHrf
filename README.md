@@ -26,10 +26,10 @@ This App Using API https://affiliate.itunes.apple.com/resources/documentation/it
 |DI | Koin | https://github.com/InsertKoinIO/koin |
 
 ## Screenshot
-![Capture](https://user-images.githubusercontent.com/10163868/126958731-01a5acba-4b0c-435c-97e8-73d8fbaec8fb.PNG)
+![1](https://user-images.githubusercontent.com/10163868/138695752-10e79e07-9258-4bad-8892-a5951f22d193.png)
 
-![Capture2](https://user-images.githubusercontent.com/10163868/126959678-47b119e8-a813-4767-a648-01839e2ad705.PNG)
+![2](https://user-images.githubusercontent.com/10163868/138695761-818a15f3-6319-410b-9d39-ce8c265cbb82.PNG)
 
-![Capture3](https://user-images.githubusercontent.com/10163868/126959694-0111e324-7edf-41a0-9e2e-e0bc15427ea5.PNG)
+![3](https://user-images.githubusercontent.com/10163868/138695767-27bf527f-9c7b-4e2a-b584-a3d74520b6ae.PNG)
 
-![Capture4](https://user-images.githubusercontent.com/10163868/126959706-411a5045-95b9-44db-8b3c-63f9e40a5569.PNG)
+![4](https://user-images.githubusercontent.com/10163868/138695773-98e3345a-196c-4100-bce9-cb7f44329b20.PNG)
